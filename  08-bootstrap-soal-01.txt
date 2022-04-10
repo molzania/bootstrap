@@ -1,0 +1,32 @@
+Apa itu CSS Framework?
+Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+Sebutkan beberapa CSS Framework selain Bootstrap
+Bagaimana tata cara penggunaan Bootstrap?
+
+Jawaban :
+1. a CSS framework comprises several CSS stylesheets ready for use by web developers and designers. 
+2. No 
+3. Tailwind css, foundation, bulma, skeleton, etc.
+4. How to use bootstrap:
+Step 1: Setup and overview
+- Create an HTML page
+- Load Bootstrap via CDN or host it locally
+- Include jQuery
+- Load Bootstrap JavaScript
+- Put it all together
+Step 2: Design your landing page
+- Add a navigation bar
+- Include custom CSS
+- Create a page content container
+- Add background image and custom JavaScript
+- Add an Overlay
+- Include a page title and body text
+- Create a CTA button
+- Set up a three-column section
+- Add a contact form
+- Include a team section
+- Create a two-column footer
+- Add media queries
+- Create additional pages
+- Bonus: Create a modal
+- Get your website live
